@@ -6,5 +6,5 @@ the PR explaining which commits caused the failure and why. For instance, if
 contributed commits need to be signed off, a comment with this message will
 appear:
 
-**`e3042c1`: foobar**
-	* *check_signed_off: does not contain a valid Signed-off-by line*
+`e3042c1`**: foobar**
+* *check_signed_off: does not contain a valid Signed-off-by line*
