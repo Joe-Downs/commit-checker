@@ -1,4 +1,8 @@
-name: GitHub Action CI
+name: Pull Request Commit Checker
+description: Checks pull request commits for policy conformity
+branding:
+  icon: check-square
+  color: green
 
 # We're using pull_request_target here instead of just pull_request so that the
 # action runs in the context of the base of the pull request, rather than in the
